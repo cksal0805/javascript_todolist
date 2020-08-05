@@ -1,0 +1,10 @@
+body {
+  background-color: cornflowerblue;
+}
+.form,
+.greetings {
+  display: none;
+}
+.showing {
+  display: block;
+}
